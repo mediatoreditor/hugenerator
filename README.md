@@ -1,2 +1,3 @@
-# mediatoreditor.github.io
-HuEditorGeneratorOnline
+# hugenerator.github.io
+
+HuEditorGeneratorOnlineVersion
