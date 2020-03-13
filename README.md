@@ -2,7 +2,7 @@
 
 ## HuEditorGenerator Online Version
 
-#### *[胡编生成器](https://github.com/mediatoreditor/HuEditorGenerator)*的在线版本
+#### [胡编生成器](https://github.com/mediatoreditor/HuEditorGenerator)的在线版本
 
 ### 测试主题：胡编生成器 
 
