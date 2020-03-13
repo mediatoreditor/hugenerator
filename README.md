@@ -1,3 +1,4 @@
-# hugenerator.github.io
+# Hugenerator
 
-HuEditorGeneratorOnlineVersion
+HuEditorGenerator Online Version
+
